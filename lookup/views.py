@@ -1,3 +1,4 @@
+#this is my django project
 from django.shortcuts import render
 
 def home(request):
